@@ -7,19 +7,19 @@
 </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7FF&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Full+Stack.;Ingenierio+en+Inform%C3%A1tica.;Analista+Programador." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer.;Computer+Engineer.;Programmer+Analyst." alt="Typing SVG" />
   </a>
 </p>
 <h2 align="start">Sobre Mí</h2>
 <pre>
-🤓 Llevo más de <b>3 años</b> en el mundo de la programación. <br>
-👨‍💻 Actualmente, estoy <b>trabajando</b> como desarrollador Full Stack.<br>
-📚 Soy autodidacta, me gusta mantenerme actualizado con las últimas tecnologías.<br>
-🔓 Estoy abierto a: <b>Proyectos Freelance</b> o <b>nuevas oportunidades de trabajo.</b>
+🤓 I’ve been in the programming world for <b>over 3 years</b>.<br>
+👨‍💻 Currently, I’m working as a <b>Full Stack developer</b>.<br>
+📚 I’m self-taught and enjoy staying up-to-date with the latest technologies.<br>
+🔓 I’m open to <b>Freelance projects</b> or <b>new job opportunities.</b>
 </pre>
 
 
-<h2 align="start">Tecnologías</h2>
+<h2 align="start">Stack</h2>
 <p>
 <div align="start">
   
@@ -38,24 +38,10 @@
 </div>
 </p>
 
-<h3 align="start">Actualmente, me estoy enfocando en...</h3>
+<h3 align="start">Currently, I'm focused in...</h3>
 <p>
 <div align="start">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 </p>
-<!--
-**hugotoroz/hugotoroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
