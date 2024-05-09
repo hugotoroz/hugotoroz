@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer.;Computer+Engineer.;Programmer+Analyst." alt="Typing SVG" />
   </a>
 </p>
-<h2 align="start">Sobre Mí</h2>
+<h2 align="start">About Me</h2>
 <pre>
 🤓 I’ve been in the programming world for <b>over 3 years</b>.<br>
 👨‍💻 Currently, I’m working as a <b>Full Stack developer</b>.<br>
