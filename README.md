@@ -13,7 +13,7 @@
 <h2 align="start">About Me</h2>
 <pre>
 🤓 I’ve been in the programming world for <b>over 3 years</b>.<br>
-👨‍💻 Currently, I’m working as a <b>Full Stack developer</b>.<br>
+👨‍💻 Currently, I’m working as a <b>Full Stack developer</b> at 2La2.<br>
 📚 I’m self-taught and enjoy staying up-to-date with the latest technologies.<br>
 🔓 I’m open to <b>Freelance projects</b> or <b>new job opportunities.</b>
 </pre>
@@ -43,5 +43,6 @@
 <div align="start">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 </p>
